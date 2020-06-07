@@ -10,5 +10,4 @@ The project is implemented using **Python3**.<br>
 The following frameworks are used in the **Implementation Of The Project**.<br>
 1. Pandas
 2. Seaborn
-3. Scikit-Learn</b></li>
-4. Flask
+3. Scikit-Learn
