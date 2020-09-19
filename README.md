@@ -1,4 +1,5 @@
 # Telecom :iphone: Customer Churn Analysis And Prediction :bar_chart:
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ## What Is Meant By Customer Churn ?
 **Customer Churn** is defined as the rate at which customers stop doing business with an entity. It is most commonly expressed as the percentage of service subscribers who discontinue their subscriptions within a given time period.
 ## Aim Of The Project
