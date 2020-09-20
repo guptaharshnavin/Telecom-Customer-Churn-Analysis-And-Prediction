@@ -9,6 +9,6 @@ The main aim of the project is to, predict whether a customer in a **Telecom Com
 ## Project Implementation
 The project is implemented using **Python3**.<br>
 The following frameworks are used in the **Implementation Of The Project**.<br>
-1. Pandas
-2. Seaborn
-3. Scikit-Learn
+:one: Pandas<br>
+:two: Seaborn<br>
+:three: Scikit-Learn
